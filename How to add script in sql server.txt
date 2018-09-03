@@ -1,0 +1,4 @@
+first : add script in sql server
+second : executer application 
+
+enjoy 
